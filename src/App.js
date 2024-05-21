@@ -6,6 +6,7 @@ import TodoTemplate from './components/todo/TodoTemplate';
 import Join from './components/user/Join';
 import Login from './components/user/Login';
 import { AuthContextProvider } from './utils/AuthContext';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
